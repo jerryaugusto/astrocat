@@ -10,7 +10,7 @@ local M = {}
 
 ---@type AstroThemeOpts
 M.default = {
-  palette = "astrodark",
+  palette = "draculapro",
   termguicolors = true,
   terminal_colors = true,
   dev = false,
@@ -26,18 +26,18 @@ M.default = {
   },
   background = {
     light = "astrolight",
-    dark = "astrodark",
+    dark = "draculapro",
   },
   palettes = {
     global = {},
-    astrodark = {},
+    draculapro = {},
     astrolight = {},
     astromars = {},
     astrojupiter = {},
   },
   highlights = {
     global = {},
-    astrodark = {},
+    draculapro = {},
     astrolight = {},
     astromars = {},
     astrojupiter = {},
